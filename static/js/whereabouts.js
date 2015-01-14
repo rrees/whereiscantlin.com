@@ -17,7 +17,8 @@
 		'in Peckham, like everybody else',
 		'presenting something in morning conference',
 		're-cutting his student films',
-		'promising things to people'
+		'promising things to people',
+		'talking endlessly about coffee'
 	];
 
 	function getRandomInt(min, max) {
